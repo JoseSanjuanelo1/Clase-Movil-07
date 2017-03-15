@@ -51,7 +51,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/cmdBoton"
             android:text="@string/saludar"
-            android:onClick="saludar(Principal)" />
+            android:onClick="saludar" />
 
     </LinearLayout>
 </RelativeLayout>
