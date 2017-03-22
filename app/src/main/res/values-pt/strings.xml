@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="apellido">Sobrenome</string>
+    <string name="bienvenido">Bem-vindo</string>
+    <string name="borrar">Excluir</string>
+    <string name="casado">Casado(a)</string>
+    <string name="datos">Seus dados são</string>
+    <string name="divorciado">Divorciado(a)</string>
+    <string name="error_1">\"Digite o nome</string>
+    <string name="error_2">Digite o nome</string>
+    <string name="estadoCivil">Estado Civil</string>
+    <string name="femenino">Feminino</string>
+    <string name="genero">Genero</string>
+    <string name="masculino">Masculino</string>
+    <string name="nombre">Nome</string>
+    <string name="parte_saludo">Olá</string>
+    <string name="parte_saludo2">Bem-vindo a esta aplicação</string>
+    <string name="saludar">Saudação</string>
+    <string name="soltero">Único</string>
+    <string name="titulo">"Greet aplicação "</string>
+</resources>

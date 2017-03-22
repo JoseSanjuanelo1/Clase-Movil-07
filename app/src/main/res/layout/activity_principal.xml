@@ -65,7 +65,7 @@
             <TextView
                 android:text="@string/estadoCivil"
                 android:layout_width="match_parent"
-                android:layout_height="33dp"
+                android:layout_height="wrap_content"
                 android:id="@+id/textView4"
                 android:textSize="18sp" />
 
@@ -78,7 +78,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/r1"
-                    android:layout_weight="1" />
+                    android:layout_weight="1"
+                    android:checked="true" />
 
                 <RadioButton
                     android:text="@string/casado"
@@ -109,10 +110,11 @@
                     android:layout_weight="1" />
 
                 <Button
-                    android:text="@string/borrar"
+                    android:text="Button"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/button"
+                    android:onClick="borrar"
                     android:layout_weight="1" />
 
             </LinearLayout>
